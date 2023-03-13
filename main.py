@@ -1,12 +1,11 @@
 from tkinter import *
 import locale
 from datetime import datetime
-from tkinter import messagebox
 
 ###### Cores usadas #######
-cor1 = "#3d3d3d"  # preta
-cor2 = "#fafcff"  # branca
-cor3 = "#15181C"        
+cor1 = "#3d3d3d"  #cinza
+cor2 = "#fafcff"  #branca
+cor3 = "#15181C"  #preta     
 
 app = Tk()
 app.geometry("480x200")
@@ -82,7 +81,6 @@ frame_hora.place(x=165, y=10)
 
 hora_label = Label(frame_hora, text="", font=("jetbrains Mono", 45, 'bold'), fg=cor1, bg=cor2, highlightthickness=0)
 hora_label.place(x=5, y=25)
-
 
 
 # data_label = Label(app, text="", font=("jetbrains Mono", 10, 'bold'), fg=cor2, bg="#121212")
