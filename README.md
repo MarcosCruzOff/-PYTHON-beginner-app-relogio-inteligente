@@ -9,5 +9,5 @@ Ainda pretendo fazer melhorias no desing e aplicar novas funcionalidades ao app.
 <h1> <i>App Relógio inteligente </i> versão 1.0
 <hr>
 <br>
-<img align="center" width="480" height="280" src="./imagens/versao_02.png">
+<img align="center" width="480" height="280" src="./imagens/versao_03.png">
 <br>
